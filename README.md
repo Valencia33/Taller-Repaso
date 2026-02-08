@@ -1,5 +1,5 @@
 # Taller-Repaso
-##taller de repaso - scripting 202601 - Miguel Valencia
+## taller de repaso - scripting 202601 - Miguel Valencia
 
 Quise hacer los ejercicios con un poquito más de interacción, entonces no me fui tanto por los casos literales de los ejercicios propuestos sino que añadí la opción de que el usuario pueda ingresar las variables con las que iba a trabajar el programa.
 
