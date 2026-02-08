@@ -7,6 +7,8 @@ namespace MyApp
         #region fibonacci
         public void FibonacciPrime(int n)
         {
+            if(n <= 0) return;
+
             int a = 0;
             int b = 1;
             int i = 0;
@@ -45,6 +47,9 @@ namespace MyApp
 
         public void SecondsToFormat(int n)
         {
+
+            if(n<=0) return;
+
             int hours = n/3600 % 60;
             int minutes = n/60 % 60;
             int seconds = n % 60;
